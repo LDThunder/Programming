@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+	setlocale(0, "");
 	int x = 3;
 	int y = 3.14; //переменной y присвоен целый тип int, поэтому она будет выводить только целое число
 	double q = 3;
