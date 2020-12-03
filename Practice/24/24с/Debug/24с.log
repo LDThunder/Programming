@@ -1,0 +1,3 @@
+﻿  24с.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\lenovo\Documents\Staff\Programming\Practice\24\24с\Debug\24с.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

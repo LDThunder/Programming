@@ -1,0 +1,5 @@
+﻿  15.cpp
+C:\Users\lenovo\Documents\Staff\Programming\Practice\15\C++\15.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\15\C++\15.cpp(11,22): warning C4101: a: неиспользованная локальная переменная
+C:\Users\lenovo\Documents\Staff\Programming\Practice\15\C++\15.cpp(12,14): warning C4101: c: неиспользованная локальная переменная
+  15c.vcxproj -> C:\Users\lenovo\Documents\Staff\Programming\Practice\15\C++\15c\Debug\15c.exe

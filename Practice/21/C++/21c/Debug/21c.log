@@ -1,0 +1,4 @@
+﻿  21.cpp
+C:\Users\lenovo\Documents\Staff\Programming\Practice\21\C++\21c\21.cpp(15,32): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\lenovo\Documents\Staff\Programming\Practice\21\C++\21c\21.cpp(18,32): warning C4804: <: небезопасное использование типа "bool" в операции
+  21c.vcxproj -> C:\Users\lenovo\Documents\Staff\Programming\Practice\21\C++\21c\Debug\21c.exe

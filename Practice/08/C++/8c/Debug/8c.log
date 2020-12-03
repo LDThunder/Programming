@@ -1,0 +1,10 @@
+﻿  8.cpp
+C:\Users\lenovo\Documents\Staff\Programming\Practice\08\C++\8.cpp(18,32): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\lenovo\Documents\Staff\Programming\Practice\08\C++\8.cpp(18,32): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\lenovo\Documents\Staff\Programming\Practice\08\C++\8.cpp(22,38): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\lenovo\Documents\Staff\Programming\Practice\08\C++\8.cpp(22,38): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\lenovo\Documents\Staff\Programming\Practice\08\C++\8.cpp(26,46): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\lenovo\Documents\Staff\Programming\Practice\08\C++\8.cpp(26,46): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\lenovo\Documents\Staff\Programming\Practice\08\C++\8.cpp(30,36): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\lenovo\Documents\Staff\Programming\Practice\08\C++\8.cpp(30,36): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  8c.vcxproj -> C:\Users\lenovo\Documents\Staff\Programming\Practice\08\C++\8c\Debug\8c.exe
