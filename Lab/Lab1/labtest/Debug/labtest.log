@@ -1,3 +1,2 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: свойство WindowsSDKDir не определено. Возможно, не найдены некоторые средства сборки.
-  labtest.cpp
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\yvals.h(12,10): fatal error C1083: Не удается открыть файл включение: crtdbg.h: No such file or directory,
+﻿  labtest.cpp
+  labtest.vcxproj -> C:\Users\lenovo\Documents\Staff\Programming\Lab\Lab1\labtest\Debug\labtest.exe

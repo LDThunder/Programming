@@ -1,0 +1,85 @@
+﻿  30c.cpp
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(8,16): error C3646: damage: неизвестный спецификатор переопределения
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(8,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(9,18): error C3646: critical: неизвестный спецификатор переопределения
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(9,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(10,20): error C3646: durability: неизвестный спецификатор переопределения
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(10,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(14,15): error C3646: guard: неизвестный спецификатор переопределения
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(14,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(15,20): error C3646: durability: неизвестный спецификатор переопределения
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(15,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(19,15): error C3646: count: неизвестный спецификатор переопределения
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(19,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(23,15): error C3646: level: неизвестный спецификатор переопределения
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(23,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(37,14): error C2065: uint: необъявленный идентификатор
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(37,19): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "count"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(37,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(37,26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(40,42): error C2061: синтаксическая ошибка: идентификатор "uint"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(41,65): error C2065: level: необъявленный идентификатор
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(41,79): error C2440: <function-style-cast>: невозможно преобразовать "initializer list" в "Rune"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(41,64): message : Недопустимая агрегатная инициализация
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(41,52): error C7555: для использования назначенных инициализаторов требуется по крайней мере "/std:c++latest"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(43,18): error C2065: uint: необъявленный идентификатор
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(43,23): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "level"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(43,30): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(43,30): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(46,19): error C2065: uint: необъявленный идентификатор
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(46,24): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "level"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(46,31): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(46,31): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(49,19): error C2065: uint: необъявленный идентификатор
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(49,24): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "level"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(49,31): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(49,31): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(52,17): error C2065: uint: необъявленный идентификатор
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(52,22): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "level"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(52,29): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(52,29): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(55,16): error C2065: uint: необъявленный идентификатор
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(55,21): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "damage"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(55,61): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(55,61): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(58,15): error C2065: uint: необъявленный идентификатор
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(58,20): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "guard"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(58,44): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(58,44): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(68,6): error C3861: GetCoin: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(69,6): error C3861: GetRunefire: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(70,6): error C3861: GetRunewater: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(71,6): error C3861: GetRuneearth: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(72,6): error C3861: GetRuneair: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(73,6): error C3861: GetRunefire: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(74,6): error C3861: GetRunewater: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(75,6): error C3861: GetRuneearth: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(76,6): error C3861: GetRuneair: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(77,6): error C3861: GetRunefire: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(78,6): error C3861: GetRunewater: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(79,6): error C3861: GetRuneearth: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(80,6): error C3861: GetRuneair: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(81,6): error C3861: GetWeapon: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(82,6): error C3861: GetWeapon: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(83,6): error C3861: GetArmor: идентификатор не найден
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(67,37): error C2440: инициализация: невозможно преобразовать "initializer list" в "std::vector<Pair<Item,double>,std::allocator<Pair<Item,double>>>"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(84,1): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(124,32): error C2039: "count": не является членом "Coin".
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(17): message : см. объявление "Coin"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(127,88): error C2039: "level": не является членом "Rune".
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(21): message : см. объявление "Rune"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(131,31): error C2039: "damage": не является членом "Weapon".
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(6): message : см. объявление "Weapon"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(132,31): error C2039: "damage": не является членом "Weapon".
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(6): message : см. объявление "Weapon"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(133,48): error C2039: "damage": не является членом "Weapon".
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(6): message : см. объявление "Weapon"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(133,90): error C2039: "critical": не является членом "Weapon".
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(6): message : см. объявление "Weapon"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(133,146): error C2039: "durability": не является членом "Weapon".
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(6): message : см. объявление "Weapon"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(137,61): error C2039: "guard": не является членом "Armor".
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(12): message : см. объявление "Armor"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(137,107): error C2039: "durability": не является членом "Armor".
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(12): message : см. объявление "Armor"
+C:\Users\lenovo\Documents\Staff\Programming\Practice\30\C++\30c\30c.cpp(151,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных

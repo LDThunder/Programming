@@ -1,0 +1,2 @@
+C:\Users\lenovo\Documents\Staff\Programming\Lab\Lab1\labtest\Debug\labtest.exe
+C:\Users\lenovo\Documents\Staff\Programming\Lab\Lab1\labtest\Debug\labtest.pdb
