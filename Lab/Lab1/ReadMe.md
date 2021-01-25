@@ -42,7 +42,7 @@
 2. Далее, составил запрос для получения прогноза погоды: http://api.openweathermap.org//data/2.5/onecall?lat=44.952116&lon=34.102411&lang=ru&units=metric&appid=063378bb49ad193cafdbeafe0b5819fd
 При вводе данного запроса в строку браузера получил json-ответ с нужной нам информацией о погоде (Рис. 1)
 
-<p align="center"> <img src="./image/json.png"> </p>
+<p align="center"> <img src="./image/json.PNG"> </p>
 
 <p align="center">Рис. 1 - Ответ о погоде в формате json<br>
 
@@ -50,7 +50,7 @@
 Также, установил расширение для браузера, для отображения json - JsonDiscovery
 При вводе данного запроса получил json ответ с нужной информацией о времени (Рис. 2)
 
-<p align="center"> <img src="./image/time.png"> </p>
+<p align="center"> <img src="./image/time.PNG"> </p>
 
 <p align="center">Рис. 2 - Ответ о времени<br>
 
@@ -142,7 +142,7 @@ int main() {
 
 ```
 
-<p align="center"> <img  src="./image/localhost3000.png"> </p>
+<p align="center"> <img  src="./image/localhost3000.PNG"> </p>
 
 <p align="center">Рис. 3 - Виджет html<br>
 
@@ -185,7 +185,7 @@ temp.pack(expand=True)
 root.mainloop()
 ```
 6. Скриншот графического интерфейса клиентского приложения (Рис.4)
-<p align="center"> <img  src="./image/widget.png"> </p>
+<p align="center"> <img  src="./image/widget.PNG"> </p>
 
 <p align="center">Рис. 4 - Интерфейс клиентского приложения<br>
 
