@@ -185,7 +185,7 @@ temp.pack(expand=True)
 root.mainloop()
 ```
 6. Скриншот графического интерфейса клиентского приложения (Рис.4)
-<p align="center"> <img  src="./image/widget.PNG"> </p>
+<p align="center"> <img  src="./image/widget.png"> </p>
 
 <p align="center">Рис. 4 - Интерфейс клиентского приложения<br>
 

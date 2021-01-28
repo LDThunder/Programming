@@ -1,0 +1,2 @@
+C:\Users\lenovo\Documents\Staff\Programming\Lab\Lab1\Server part\lab1\x64\Debug\lab1.exe
+C:\Users\lenovo\Documents\Staff\Programming\Lab\Lab1\Server part\lab1\x64\Debug\lab1.pdb
