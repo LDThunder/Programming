@@ -1,21 +1,25 @@
-﻿#include <iostream>
+﻿
+#include <iostream>
+
 int main()
 {
-	setlocale(LC_ALL, "Russian");
 	using namespace std;
 	int h, m;
 	int H, M;
-	cout << "Времея первого\n";
+	cout << "Vremia i mesto\n";
 	cin >> h >> m;
-	cout << "Время второго\n";
+	cout << "Dlya vtorogo\n";
 	cin >> H >> M;
+
+
+
 	if ((0 <= h) && (H <= 23))
 	{
 	
 	}
 	else
 	{
-		cout << "Время введено неправильно\n" << endl;
+		cout << " vremya ne sovpodaet\n" << endl;
 	}
 	if ((0 <= m) && (M <= 59))
 	{
@@ -23,20 +27,23 @@ int main()
 	}
 	else
 	{
-		cout << "Время введено неправильно\n" << endl;
+		cout << "Minuti ne sovpadaut\n" << endl;
 	}
+
+
 	int a = h;
 	int A = H;
 	int b = m;
 	int B = M;
 	int c = b + 15;
+
 	if (a = A, c <= B)
 	{
-		cout << "Встреча состоится" << endl;
+		cout << "Vstrecha sostoitsa" << endl;
 	}
 	else
 	{
-		cout << "Встреча не состоится" << endl;
+		cout << "Vstrecha ne sostoica,zhal" << endl;
 	}
 
 
@@ -44,7 +51,3 @@ int main()
 
 
 }
-
-
-
-

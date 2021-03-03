@@ -14,7 +14,7 @@ def division(a, b):
   t = a / b;
   return t
 def default(a, b):
-  return "Incorrect intput"
+  return "Neverniy vvod"
 switcher = {
     1: addition,
     2: subtraction,
@@ -23,12 +23,11 @@ switcher = {
 }
 def switch(s, a, b):
   return switcher.get(s, default)(a, b)
-print('''Perform calculation
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division ''')
-# Take input from user
+print('''Сalculation
+1. Pribavka
+2. Otbavka
+3. Umnozhenie
+4. Delenie ''')
 def switch(operation):
     return switcher.get(s, default) 
 print(switch(s)(a, b)) 

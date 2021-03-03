@@ -1,8 +1,8 @@
-﻿#include <iostream>
+﻿
+#include <iostream>
 
 int main()
 {
-    setlocale(LC_ALL, "Russian");
     using namespace std;
     int a, b;
     char s;
@@ -15,30 +15,27 @@ int main()
     t = a / b;
     switch (s) {
     case '+':
-        printf("Сумма\n", s);
+        printf("Summing\n", s);
         cout << u;
         break;
     case '-':
-        printf("Разность\n", s);
+        printf("Minusing\n", s);
         cout << d;
         break;
     case '*':
-        printf("Произведение\n", s);
+        printf("Umnozhenie\n", s);
         cout << m;
         break;
     case '/':
-        printf("Частное\n", s);
+        printf("Delenie\n", s);
         cout << t;
         break;
     default:
-        printf("Стоп\n");
+        printf("Stop\n");
         break;
 
 
     }
-    std::cout << "Результат\n";
+    std::cout << "Rezultat is\n";
 }
-
-
-
 
